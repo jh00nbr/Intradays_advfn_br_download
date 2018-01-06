@@ -29,7 +29,7 @@ def load_useragents():
             if ua:
                 uas.append(ua.strip()[0:-1-0])
     random.shuffle(uas)
-return uas
+    return uas
 
 def get_magic_cookies():
 	__urls__ = {'url_login':'https://secure.advfn.com/login/secure' }
