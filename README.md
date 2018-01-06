@@ -8,4 +8,4 @@ Download de intraday de ações da Bovespa na plataforma do ADVFN Brasil.
 
 Demo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a5eYXZeVucE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/embed/a5eYXZeVucE
