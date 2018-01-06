@@ -2,7 +2,7 @@
 
 Download de intraday de ações da Bovespa na plataforma do ADVFN Brasil.
 
-* Inserir o usúario e senha da sua conta ADVFN no código.
+* Inserir o seu usúario e senha da sua conta ADVFN no código.
 * Para mais informações entre em contato.
 
 
